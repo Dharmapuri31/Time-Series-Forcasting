@@ -6,3 +6,9 @@ Traditionally, time series forecasting is dominated by linear methods because th
 
 In this project we use LSTM, CNN and Fully connected neural networks to predict the stock price using time series forecasting
 
+The following Python libraries have been used.
+
+# Dataset Used
+
+
+
