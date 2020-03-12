@@ -9,6 +9,9 @@ In this project we use LSTM, CNN and Fully connected neural networks to predict 
 The following Python libraries have been used.
 
 # Dataset Used
+JPM.csv and CSC215_P2_Stock_Price 
+
+
 
 
 
